@@ -1,1 +1,1 @@
-# hobbit-runner
+# T-rex-Runner-Game
